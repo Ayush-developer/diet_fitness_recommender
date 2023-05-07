@@ -21,5 +21,6 @@ def sub():
     return render_template('sub.html',n = name,w = weight, h = height,a = age,exercise=exercise)
 
 if __name__ == '__main__':
+    app.debug=True
     app.run()
 
