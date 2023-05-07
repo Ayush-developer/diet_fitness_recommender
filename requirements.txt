@@ -14,3 +14,4 @@ six==1.16.0
 scikit-learn==1.0.2
 tzdata==2023.3
 Werkzeug==2.2.3
+openpyxl==3.0.10
