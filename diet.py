@@ -3,7 +3,6 @@ warnings.filterwarnings('ignore')
 import math
 import pandas as pd
 import numpy as np
-import seaborn as sns
 from sklearn import metrics
 from sklearn.ensemble import RandomForestClassifier
 
