@@ -23,7 +23,7 @@ A web application that provides personalized diet and fitness recommendations ba
 
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** (Specify if applicable)
+
 
 ## Installation
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please reach out to:
 
 - **Name:** Ayush Developer
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:debayush2002@gmail.com)
 - **GitHub:** [Ayush-developer](https://github.com/Ayush-developer)
 
 ---
